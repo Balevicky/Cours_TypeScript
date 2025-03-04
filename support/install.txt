@@ -1,0 +1,8 @@
+Install typscripte code: "npm i -g typescript"
+version intalled: "tsc -v"
+========
+Install again "typscripte Extelsion Parck" le rechercher dans l'extension pour l'installer ; 
+========= compiler un fichier ts il faut faire en ligne de commande pour le fichier index.ts:
+tsc index.ts
+========== configuer ts pour afficher les erreur: tsc --init
+==========  afficher les erreur à l'ecran : tsc -w
